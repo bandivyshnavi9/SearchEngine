@@ -1,0 +1,20 @@
+http://www.unt.edu/library-technology.htm,Libraries and Technology | UNT | University of North Texas
+http://www.unt.edu/eaglealert/../library-technology.htm,Libraries and Technology | UNT | University of North Texas
+http://unt.edu/library-technology.htm,Libraries and Technology | UNT | University of North Texas
+http://computerlabs.unt.edu/procedures-guidelines,Procedures & Guidelines | Student Computer Labs
+http://engineering.unt.edu/departments/computer-science-and-engineering,Computer Science and Engineering | College of Engineering
+http://engineering.unt.edu/node/227,Computer Science and Engineering | College of Engineering
+http://www.unt.edu/documentation/newfaculty.htm,Documentation | University Information Technology
+http://www.unt.edu/helpdesk/faculty,UNT UIT HELPDESK Faculty & Staff
+http://www.unt.edu/helpdesk/visitor/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://www.unt.edu/helpdesk/retiree/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://www.unt.edu/helpdesk/faculty/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://www.unt.edu/helpdesk/students/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://helpdesk.unt.edu/bblearn/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://helpdesk.unt.edu/faculty,UNT UIT HELPDESK Faculty & Staff
+http://www.unt.edu/helpdesk/faq/../faculty,UNT UIT HELPDESK Faculty & Staff
+http://gacl.unt.edu,About Us | Student Computer Labs
+http://computerlabs.unt.edu,About Us | Student Computer Labs
+http://computerlabs.unt.edu/student-computer-lab-managers-committee,Student Computer Lab Managers Committee | Student Computer Labs
+http://engineering.unt.edu/grad,Graduate Studies | College of Engineering
+http://www.cse.unt.edu/site/index.php,Computer Science and Engineering
